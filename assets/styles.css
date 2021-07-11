@@ -1,0 +1,11 @@
+.top_margin{
+    margin-top: 2%;
+}
+
+#tabla_resuldado{
+    text-align: center !important;
+}
+
+#tabla_resuldado th{
+    text-align: center !important;
+}
